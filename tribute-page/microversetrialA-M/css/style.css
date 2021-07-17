@@ -1,0 +1,47 @@
+#main {
+    background-color: rgb(238,238,238);
+    padding : 20px 10px 20px 10px;
+    font-family:   'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
+#title {
+    font-size: 36px;
+}
+#img-div {
+    background: white;
+    padding: auto;
+}
+#img-caption {
+    font-size: medium;
+    text-align: center;
+    padding-bottom: 20px;
+}
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+
+    }
+#timeline {
+    width: 500px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    }
+#link {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#title , #tribute-info ,#img-caption, #timeline-title {
+
+text-align: center;
+}
+#bquote {
+    text-align: left;
+    font-style: italic;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
